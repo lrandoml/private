@@ -4,3 +4,18 @@ unimatrix
 terminal flex : 
 neofetch
 figlet
+
+usefull :
+
+xprop (info window)
+
+termninal : 
+
+alacritty
+(termite)
+
+shortcuts :
+
+SUPER + ENTER : terminal
+SUPER + B : browser (brave)
+SUPER + E : file manager (thunar)
