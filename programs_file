@@ -3,6 +3,7 @@ unimatrix
 
 terminal flex : 
 neofetch
+powerline-shell (dl w/ pip not the AUR)
 figlet (figlet hello)
 
 sl (funny)
