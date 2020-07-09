@@ -3,7 +3,10 @@ unimatrix
 
 terminal flex : 
 neofetch
-figlet
+figlet (figlet hello)
+
+sl (funny)
+asciiquarium (funny)
 
 useful :
 
