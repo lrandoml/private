@@ -1,0 +1,25 @@
+useful :
+
+xprop (info window)
+ripgrep (grep but way faster)
+
+date
+cal (calendar)
+
+df -h (hard disk info)
+du -h (size file or dir)
+uname (info about the system)
+pidof *program* (returns pid of the prog)
+gotop
+
+funny :
+
+
+asciiquarium
+unimatix / cmatrix
+
+flex : 
+
+neofetch
+powerline-shell (dl w/ pip not the AUR)
+figlet (figlet hello)
