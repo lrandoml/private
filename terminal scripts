@@ -12,6 +12,8 @@ uname (info about the system)
 pidof *program* (returns pid of the prog)
 gotop
 
+exa (ls but way faster)
+
 funny :
 
 
