@@ -1,27 +1,3 @@
-funny hacker things :
-unimatrix 
-
-terminal flex : 
-neofetch
-powerline-shell (dl w/ pip not the AUR)
-figlet (figlet hello)
-
-sl (funny)
-asciiquarium (funny)
-
-useful :
-
-xprop (info window)
-ripgrep (grep but way faster)
-
-date
-cal (calendar)
-df -h (hard disk info)
-du -h (size file or dir)
-pidof *program* (returns pid of the prog)
-gotop
-uname (info about the system)
-
 termninal : 
 
 alacritty
