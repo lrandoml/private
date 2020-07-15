@@ -24,4 +24,10 @@ flex :
 
 neofetch
 powerline-shell (dl w/ pip not the AUR)
-figlet (figlet hello)
+figlet (figlet "x") 
+
+-----------------
+
+TO DL :
+spicetify-cly (with yay)
+picom
