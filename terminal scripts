@@ -31,3 +31,4 @@ figlet (figlet "x")
 TO DL :
 spicetify-cly (with yay)
 picom
+polybar
