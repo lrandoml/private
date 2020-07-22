@@ -36,6 +36,7 @@ cowsay
 tty-clock
 login screen : aether
 bashtop
+dynamic-wallpaper
 
 take a look to proton (gaming) 
 
@@ -43,4 +44,4 @@ take a look to proton (gaming)
 VERY IMPORTANT : xrandr
 
 
-check if creating a file : ~/.config/autostart launch app with the computer
+check if creating a dir : ~/.config/autostart with a file into launchs app with the computer
