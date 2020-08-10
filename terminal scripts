@@ -1,5 +1,5 @@
 useful :
-sxiv (image viewer)
+feh(image viewer)
 xprop (info window)
 ripgrep (grep but way faster)
 
@@ -42,6 +42,7 @@ mpv
 dunst (notification)
 pywal
 lightdm (login manager)
+feh
 
 vrms (shows proprietary software)
 
