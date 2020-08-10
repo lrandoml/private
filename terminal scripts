@@ -34,7 +34,6 @@ picom
 polybar
 cowsay
 tty-clock
-login screen : aether
 bashtop
 dynamic-wallpaper
 kitty
@@ -42,7 +41,7 @@ lolcat
 mpv
 dunst (notification)
 pywal
-
+lightdm (login manager)
 
 vrms (shows proprietary software)
 
