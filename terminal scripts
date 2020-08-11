@@ -2,6 +2,7 @@ useful :
 feh / sxiv (image viewer)
 xprop (info window)
 ripgrep (grep but way faster)
+lsblk (show every devices plugged in)
 
 date
 cal (calendar)
