@@ -30,7 +30,7 @@ figlet (figlet "x")
 -----------------
 
 TO DL :
-spicetify-cly (with yay)
+spicetify-cli (with yay)
 picom
 polybar
 cowsay
