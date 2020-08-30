@@ -20,6 +20,8 @@ funny :
 asciiquarium
 unimatix / cmatrix
 no more secert (nms)
+cowsay
+lolcat
 
 flex : 
 
@@ -27,9 +29,10 @@ neofetch
 powerline-shell (dl w/ pip not the AUR)
 figlet (figlet "x") 
 
+
 -----------------
 
-TO DL :
+
 spicetify-cli (with yay)
 picom
 polybar
@@ -45,12 +48,12 @@ pywal
 lightdm (login manager)
 feh / sxiv
 
-vrms (shows proprietary software)
+
 
 take a look to proton (gaming) 
 
 
-VERY IMPORTANT : xrandr
+xrandr
 
 
 check if creating a dir : ~/.config/autostart with a file into launchs app with the computer
