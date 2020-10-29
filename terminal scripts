@@ -1,9 +1,11 @@
 useful :
+scrot (screenshot)
 sxhkdrc (hotkey deamon)
 feh / sxiv (image viewer)
 xprop (info window)
 ripgrep (grep but way faster)
 lsblk (show every devices plugged in)
+xrandr
 
 date
 cal (calendar)
@@ -47,14 +49,13 @@ mpv
 dunst (notification)
 pywal
 lightdm (login manager)
-feh / sxiv
 
 
 
 take a look to proton (gaming) 
 
 
-xrandr
 
 
-check if creating a dir : ~/.config/autostart with a file into launchs app with the computer
+
+
