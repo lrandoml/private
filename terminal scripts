@@ -6,6 +6,7 @@ xprop (info window)
 ripgrep (grep but way faster)
 lsblk (show every devices plugged in)
 xrandr
+xev (gives info about a key)
 
 date
 cal (calendar)
