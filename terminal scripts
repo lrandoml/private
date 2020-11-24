@@ -1,6 +1,10 @@
 useful :
+xwallpaper (set wallpaper using xorg)
+disown (used with &, allows to kill a job)
+awk
+sed
 scrot (screenshot)
-sxhkdrc (hotkey deamon)
+sxhkd (hotkey deamon)
 feh / sxiv (image viewer)
 xprop (info window)
 ripgrep (grep but way faster)
@@ -36,7 +40,8 @@ figlet (figlet "x")
 
 
 -----------------
-
+interesting files:
+"/sys/class/net/e*/operstate" -> tells if connected to the internet or not
 
 spicetify-cli (with yay)
 picom
