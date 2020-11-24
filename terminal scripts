@@ -1,4 +1,5 @@
 useful :
+slock (lock the x session currently running)
 xwallpaper (set wallpaper using xorg)
 disown (used with &, allows to kill a job)
 awk
